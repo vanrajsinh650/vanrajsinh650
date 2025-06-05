@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanrajsinh650
+- 👋 Hi, I’m vanrajsinh solanki
   
 - 👀 I’m interested in Ai/Ml
   
