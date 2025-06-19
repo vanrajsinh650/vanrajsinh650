@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning full-stack web dev and in backend i'm going with python
   
 - 💬 Ask me about:
-html, css, javascript, dsa-c++.
+html, css, javascript, dsa-c++ React.js
   
 - ⚡ Fun fact: i love play chess
 
