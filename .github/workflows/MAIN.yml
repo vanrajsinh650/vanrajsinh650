@@ -22,9 +22,9 @@ jobs:
             dist/github-contribution-grid-snake.gif
 
       - name: Deploy to GitHub Pages (output branch)
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  uses: crazy-max/ghaction-github-pages@v3
+  with:
+    target_branch: output
+    build_dir: dist
+  env:
+    GITHUB_TOKEN: ${{ secrets.GH_PAT }}
