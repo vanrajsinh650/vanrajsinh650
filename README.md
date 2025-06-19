@@ -9,6 +9,10 @@ html, css, javascript, dsa-c++ React.js
   
 - ⚡ Fun fact: i love play chess
 
+##
+![snake gif](https://github.com/vanrajsinh650/vanrajsinh650/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
