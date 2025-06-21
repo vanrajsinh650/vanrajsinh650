@@ -1,18 +1,18 @@
 
 
-<h1 align="center">Hi there, I'm Vanraj solanki </h1>
+<h1 align="center">Hi there, I'm Vanrajsinh solanki </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Exploring:+Full+stack+web+dev;Interested:+in+AI+and+ML;"></a>
 </p>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwa3drYmJ5NXpsNXA0ODd6YTFtMDk3NjZqNGlla3QxYjFleDZuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3B1YWg0enNvOGZ2bnRhOW4wNHVlbmJteG0ydm1rdWZqa2V2aXVzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDnBOLf1rwsIo/giphy.gif">
 
 <div width = "20px">
   
 <h4> Visitor Count : </h4> 
 
 ![Visitor Count](https://count.getloli.com/get/@vanrajsinh650?theme=booru-lewd)
-<!--rule-34-->
 </div>
+ 
 
 - 🔭 I’m currently working on : **FUll STACK BASED PROJECT**
 
@@ -22,9 +22,15 @@
 
 - ⚡ Fun fact : **LOVE PLAYING CHESS**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vanrajsinh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vanrajsinh/" height="30" width="40" /></a>
+<a href="https://x.com/vanrajsinh88888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vanrajsinh88888" height="30" width="40" /></a>
+</p>
+
 ###
 
 <img src="https://raw.githubusercontent.com/vanrajsinh650/vanrajsinh650/output/snake.svg" alt="Snake animation" />
 
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
