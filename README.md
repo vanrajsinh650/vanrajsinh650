@@ -14,11 +14,11 @@
 <!--rule-34-->
 </div>
 
-- 🔭 I’m currently working on **FUll STACK BASED PROJECT**
+- 🔭 I’m currently working on : **FUll STACK BASED PROJECT**
 
-- 🌱 I’m currently learning **PYTHON**
+- 🌱 I’m currently learning : **PYTHON**
 
-- 💬 Open to collaborating on projects related to **FRONTEND**
+- 💬 Open to collaborating on projects related to : **FRONTEND**
 
 - ⚡ Fun fact : **LOVE PLAYING CHESS**
 
