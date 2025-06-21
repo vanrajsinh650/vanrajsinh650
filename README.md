@@ -9,9 +9,9 @@ html, css, javascript, dsa-c++ React.js
   
 - ⚡ Fun fact: i love play chess
 
+###
 
+<img src="https://raw.githubusercontent.com/vanrajsinh650/vanrajsinh650/output/snake.svg" alt="Snake animation" />
 
-<!---
-vanrajsinh650/vanrajsinh650 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
