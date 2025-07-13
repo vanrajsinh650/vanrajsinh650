@@ -14,11 +14,11 @@
 </div>
  
 
-- 🔭 I’m currently working on : **FUll STACK BASED PROJECT**
+- 🔭 I’m currently working on : **FUll STACK WEB AND AUTOMATION PROJECTS**
 
-- 🌱 I’m currently learning : **PYTHON**
+- 🌱 I’m currently learning : **FASTAPI AND DJANGO**
 
-- 💬 Open to collaborating on projects related to : **FRONTEND**
+- 💬 Open to collaborating on projects related to : **FRONTEND AND AUTOMATION**
 
 - ⚡ Fun fact : **LOVE PLAYING CHESS**
 
