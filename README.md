@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there, I'm Vanrajsinh solanki </h1>
+<h1 align="center">Hi there, I'm Solanki Vanraj </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Exploring:+Full+stack+web+dev;Interested:+in+AI+and+ML;"></a>
 </p>
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning : **FASTAPI AND DJANGO**
 
-- 💬 Open to collaborating on projects related to : **FRONTEND AND AUTOMATION**
+- 💬 Open to collaborating on projects related to : **PYTHON AND AUTOMATION**
 
 - ⚡ Fun fact : **LOVE PLAYING CHESS**
 
