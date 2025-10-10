@@ -14,9 +14,9 @@
 </div>
  
 
-- 🔭 I’m currently working on : **FUll STACK WEB AND AUTOMATION PROJECTS**
+- 🔭 My Current Tech Stack : **PYTHON, FastAPI, MySQL, Streamlit, AI-automation**
 
-- 🌱 I’m currently learning : **FASTAPI AND DJANGO**
+- 🌱 I’m currently learning : **AI/ML**
 
 - 💬 Open to collaborating on projects related to : **PYTHON AND AUTOMATION**
 
